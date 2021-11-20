@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=cobanov" alt="AlicanKrtl" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=AlicanKrtl" alt="AlicanKrtl" /> </p>
 
 - 🌱 I’m currently learning Machine Learning and Deep Learning
 
