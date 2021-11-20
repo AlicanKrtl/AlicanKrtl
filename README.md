@@ -5,10 +5,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cobanov" alt="AlicanKrtl" /> </p>
 
 - 🌱 I’m currently learning Machine Learning and Deep Learning
-- 📫 How to reach me: 
 
 [![](https://img.shields.io/twitter/follow/AIicanKartaI?style=social)](https://twitter.com/AIicanKartaI)
-[![](https://img.shields.io/github/followers/AIicanKartaI?style=social)](https://www.github.com/AlicanKrtl)
+[![](https://img.shields.io/github/followers/AlicanKrtl?style=social)](https://www.github.com/AlicanKrtl)
 
 [![](https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white")](https://www.youtube.com/channel/UCB5k_bDcFbMgu7W5IePok7g)
 [![](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/AIicanKartaI)
