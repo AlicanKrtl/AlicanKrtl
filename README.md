@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AlicanKrtl" alt="AlicanKrtl" /> </p>
 
-- 🌱 I’m currently learning Machine Learning and Deep Learning with python
+- 🌱 I’m currently learning Machine Learning with python
 
 <!--[![](https://img.shields.io/twitter/follow/AIicanKartaI?style=social)](https://twitter.com/AIicanKartaI)
 [![](https://img.shields.io/github/followers/AlicanKrtl?style=social)](https://www.github.com/AlicanKrtl)-->
